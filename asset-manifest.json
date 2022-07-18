@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stateternary/static/css/main.29edc926.css",
+    "main.js": "/stateternary/static/js/main.cfe35a92.js",
+    "index.html": "/stateternary/index.html",
+    "main.29edc926.css.map": "/stateternary/static/css/main.29edc926.css.map",
+    "main.cfe35a92.js.map": "/stateternary/static/js/main.cfe35a92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29edc926.css",
+    "static/js/main.cfe35a92.js"
+  ]
+}
